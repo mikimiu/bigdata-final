@@ -1,0 +1,7 @@
+﻿metric,value
+Total Raw Rows,105000
+PM2.5 Sensor Errors,3150
+Temperature Stuck,2100
+Null Wind Speed,2100
+Dirty Rows Removed,7190
+Clean Rows,97810
