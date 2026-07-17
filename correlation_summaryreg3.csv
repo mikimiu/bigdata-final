@@ -1,2 +1,5 @@
-﻿pair,r,strength,color
-REG3,-0.616963,Moderate,Orange
+﻿pair,r,strength
+REG1,0.900821,Very Strong
+REG2,0.750469,Strong
+REG3,-0.616963,Moderate
+REG4,0.346297,Weak-to-Moderate
